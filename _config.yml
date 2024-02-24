@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Goksel Aktas / Goksel Aktas"
+title                    : "Goksel's Homepage'"
 title_separator          : "-"
 name                     : &name "Goksel Aktas"
 description              : &description "Computer Engineer"
@@ -22,10 +22,10 @@ repository               : "gokselaktas/gokselaktas.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Your Sidebar Name"
+  name             : "Göksel Aktaş"
   pronouns         : # 
   bio              : #
-  location         : "Earth"
+  location         : "Istanbul"
   employer         : "Canakkale Onsekiz Mart University"
   uri              : # URL
   email            : "aktas_goksel@hotmail.com" 
